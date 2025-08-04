@@ -5,7 +5,7 @@
     { "id": 3, "title": "제목 3 입니다", "writer": "홍길동", "wdate": "2020-01-03" },
     { "id": 4, "title": "제목 4 입니다", "writer": "홍길동", "wdate": "2020-01-04" },
     { "id": 5, "title": "제목 5 입니다", "writer": "홍길동", "wdate": "2020-01-05" },
-    { "id": 6, "title": "제목 5 입니다", "writer": "홍길동", "wdate": "2020-01-05" },
+    { "id": 6, "title": "제목 5 입니다", "writer": "홍길동", "wdate": "2020-01-05" }
   ],
   "posts": [
     { "id": 1, "title": "json-server", "author": "typicode" },
