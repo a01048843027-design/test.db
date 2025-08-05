@@ -7,6 +7,13 @@
     { "id": 5, "title": "제목 5 입니다", "writer": "홍길동", "wdate": "2020-01-05" },
     { "id": 6, "title": "제목 6 입니다", "writer": "홍길동", "wdate": "2020-01-05" }
   ],
+  "score": [
+    { "hakbun": 20250001, "irum":"홍길동", "kor":90, "eng":80, "mat":70 },
+    { "hakbun": 20250002, "irum":"김길동", "kor":80, "eng":70, "mat":60 },
+    { "hakbun": 20250003, "irum":"박길동", "kor":70, "eng":60, "mat":50 },
+    { "hakbun": 20250004, "irum":"최길동", "kor":60, "eng":50, "mat":40 },
+    { "hakbun": 20250005, "irum":"이길동", "kor":100, "eng":90, "mat":80 }    
+  ],
   "posts": [
     { "id": 1, "title": "json-server", "author": "typicode" },
     { "id": 2, "title": "my-json-server", "author": "typicode" },
